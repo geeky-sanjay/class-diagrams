@@ -230,6 +230,9 @@
         <mxCell id="4GC-tnCzy-OKuHNRi4nL-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.459;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4GC-tnCzy-OKuHNRi4nL-58" target="4GC-tnCzy-OKuHNRi4nL-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4GC-tnCzy-OKuHNRi4nL-78" value="Parkinglog&amp;nbsp; Class Diagram" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="30" width="430" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
