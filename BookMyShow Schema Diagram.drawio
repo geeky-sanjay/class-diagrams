@@ -375,17 +375,14 @@
             <mxRectangle width="147.5" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q26WXqIlJ-ZOVpeD0AG6-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q26WXqIlJ-ZOVpeD0AG6-93">
+        <mxCell id="Q26WXqIlJ-ZOVpeD0AG6-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="678" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="678" y="558" />
-              <mxPoint x="679" y="558" />
-            </Array>
+            <mxPoint x="673" y="528" as="targetPoint" />
+            <mxPoint x="673" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q26WXqIlJ-ZOVpeD0AG6-93" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Enumeration&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;day_of_week&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&#39;Monday&#39;, &#39;Tuesday&#39;, &#39;Wednesday&#39;, &#39;Thursday&#39;, &#39;Friday&#39;, &#39;Saturday&#39;, &#39;Sunday&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="588.5" y="573" width="180" height="105" as="geometry" />
+          <mxGeometry x="582.5" y="573" width="180" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Q26WXqIlJ-ZOVpeD0AG6-94" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;User&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-160" y="280" width="200" height="150" as="geometry" />
