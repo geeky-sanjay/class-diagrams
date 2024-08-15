@@ -115,6 +115,9 @@
         <mxCell id="4QxfLaaTbrpDECnel7mo-14" value="+executeSettlement(): void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="4QxfLaaTbrpDECnel7mo-8">
           <mxGeometry y="138" width="230" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="4QxfLaaTbrpDECnel7mo-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;«Enumeration»&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;+PENDING,&amp;nbsp;+COMPLETED,&amp;nbsp;+FAILED" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="540" width="250" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
