@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJFX_Rk4V7p2z_-a50Hd-33" value="expense_split" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="310" height="220" as="geometry" />
+          <mxGeometry x="450" y="450" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="sJFX_Rk4V7p2z_-a50Hd-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-33">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -273,7 +273,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-45" value="currency CHAR(3)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-43">
+        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-45" value="paid_amount DECIMAL(10, 2)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-43">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -286,20 +286,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-48" value="bill_image  VARCHAR(255) Optional" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-46">
-          <mxGeometry x="30" width="280" height="30" as="geometry">
-            <mxRectangle width="280" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-49" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-33">
-          <mxGeometry y="180" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-50" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-49">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-51" value="total_amount DECIMAL(10, 2)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-49">
+        <mxCell id="sJFX_Rk4V7p2z_-a50Hd-48" value="owed_amount DECIMAL(10, 2)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-46">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
