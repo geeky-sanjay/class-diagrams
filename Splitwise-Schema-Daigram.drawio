@@ -286,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJFX_Rk4V7p2z_-a50Hd-52" value="settlement" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="580" width="260" height="190" as="geometry" />
+          <mxGeometry x="115" y="580" width="260" height="190" as="geometry" />
         </mxCell>
         <mxCell id="sJFX_Rk4V7p2z_-a50Hd-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="sJFX_Rk4V7p2z_-a50Hd-52">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
